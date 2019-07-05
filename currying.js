@@ -1,5 +1,5 @@
 // Currying
-// The act of refactoring a fn that receives meny args into a single fn  
+// The act of refactoring a fn that receives many args into a single fn  
 // that receives a single arg and returns a series of fns each accepting only one arg
 
 
